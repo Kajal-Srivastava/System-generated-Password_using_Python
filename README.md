@@ -1,0 +1,2 @@
+# System-generated-Password_using_Python
+This mini python project is a password generator built using random library. It creates a strong &amp; secure 8-digit password simulating real life scenario. The generated password has a combination of uppercase &amp; lowercase letters, digits &amp; special characters. It creates a random &amp; unique password with each run &amp; it meets the basic security standards.

@@ -44,6 +44,7 @@ if (system_created_password!=" "):
     print("Your final selected password is :"+system_created_password)
 if (user_entered_password!=" "):
     print("Your final selected password is :"+user_entered_password)
-else:
+if (system_created_password == " " and user_entered_password == " "):
     print("You haven't selected or entered any password. See You Again!")
         
+
